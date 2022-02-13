@@ -1,4 +1,0 @@
-﻿  Source.cpp
-C:\Users\KKPS\Desktop\File sync\University\Year 1 Term 1\COMP 051\September 11\Project 1 - Change Calculator\Source.cpp(23,18): warning C4244:  'initializing': conversion from 'int' to 'float', possible loss of data
-C:\Users\KKPS\Desktop\File sync\University\Year 1 Term 1\COMP 051\September 11\Project 1 - Change Calculator\Source.cpp(84,25): warning C4244:  '=': conversion from 'float' to 'int', possible loss of data
-  Project 1 - Change Calculator.vcxproj -> C:\Users\KKPS\Desktop\File sync\University\Year 1 Term 1\COMP 051\September 11\Project 1 - Change Calculator\Debug\Project 1 - Change Calculator.exe

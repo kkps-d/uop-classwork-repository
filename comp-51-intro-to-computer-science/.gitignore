@@ -1,0 +1,9 @@
+Debug/
+x64/
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.pdf
+*.zip
+.vs/
