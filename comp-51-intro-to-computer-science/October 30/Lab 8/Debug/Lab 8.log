@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\KKPS\Desktop\Resilio\University\Year 1 Term 1\COMP 051\October 30\Lab 8\Source.cpp(61,6): warning C4101:  'studentNum': unreferenced local variable
+C:\Users\KKPS\Desktop\Resilio\University\Year 1 Term 1\COMP 051\October 30\Lab 8\Source.cpp(113,6): warning C4101:  'appendSwitch': unreferenced local variable
+C:\Users\KKPS\Desktop\Resilio\University\Year 1 Term 1\COMP 051\October 30\Lab 8\Source.cpp(111,6): warning C4101:  'studentNum': unreferenced local variable
+  Lab 8.vcxproj -> C:\Users\KKPS\Desktop\Resilio\University\Year 1 Term 1\COMP 051\October 30\Lab 8\Debug\Lab 8.exe

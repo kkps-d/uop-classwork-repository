@@ -1,0 +1,21 @@
+Mr. Silver's Silverware
+Sun Nov 17 22:55:18 2019
+
+Kaung Khant Pyae Sone
+Casa Jackson, 3601 Pacific Ave
+CA 95211
+
+Invoice
+--------------------------------------------------------------------------------
+Description                   Price     Quantity  Weight (ounces) Total for item 
+Spoon                         0.79      1         0.85            $0.79
+Fork                          0.79      2         0.85            $1.58
+Knife                         0.79      3         0.85            $2.37
+Silverware set for two        4.59      4         5.1             $18.36
+Silverware set for six        13.99     5         15.3            $69.95
+
+Subtotal: $93.05
+Tax: $7.44
+Shipping: $16.60
+-----------------------
+Total: $117.09

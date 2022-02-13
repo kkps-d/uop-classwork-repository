@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\KKPS\Desktop\Lab 3\Source.cpp(16,6): warning C4101:  'currentStars': unreferenced local variable
+C:\Users\KKPS\Desktop\Lab 3\Source.cpp(15,6): warning C4101:  'numStars': unreferenced local variable
+  Lab 3.vcxproj -> C:\Users\KKPS\Desktop\Lab 3\Debug\Lab 3.exe

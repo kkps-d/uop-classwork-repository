@@ -1,0 +1,108 @@
+Pass by value: When the function is called, only the copy of the value in the argument of the function is sent to the function. The initial value used to call the argument is not changed
+
+Pass by reference: The function is called by sending the location of the value in the argument. Any changes to the value in the function updates the inital value.
+
+void byValue(int total)
+
+void byRef(int &total)
+
+-Needing to return multiple values to the main function
+-Increasing performance, because value is not copied
+-When the function needs to change the value of the argument
+
+countsEven (int array[], int size) {
+	int even = 0;
+	for (int i = 0; i++; i < size) {
+		int output = array[i] % 2;
+		if (output == 0) {
+			even++;
+		}
+	}
+	return even;
+}
+
+An array contains a set of values that are the same type
+
+Parameter- a variable that is declaired inside the parameter list of a function. They can be used inside the function.
+
+Return value- the output of a function that is returned to its caller
+
+Logical File- a name used to represent the physical file
+
+Physical FIle- a file that exists on the hard drive
+
+File Stream- sequence of bytes that are wrote and read to and from a physical file
+
+Common cases- valid data that the program accepts and will cause the program to complete successfully
+
+Boundary cases- valid data but on the limits of what the program will accept and will cause the program to complete successfully
+
+Negative cases= invalid data which the program will not accept and cause it fail
+
+Scope- the inside of a function
+
+Local variable- a variable declared inside a function. Only valid inside that function
+
+Global variable- a variable declared outside a function. Valid everywhere
+
+char word[25]
+
+bool theMatrix[6][4][3];
+
+double theGrid[5][3];
+
+int total = 0;
+for(int i=0; i++; i < 5) {
+	for(int j=0; j++; j<3) {
+		total += int[i][j];
+	}
+}
+
+-1,0,3,8,15
+
+-3,0,5,4,5
+
+cin >> num1;
+cin >> num2;
+
+iostream- allows basic input and output of data using the console
+iomanip- allows for formatting of output with commands such as setw, setprecision and fixed
+fstream- allows for use of ifstream and ofstream used to write to or read data from a file
+
+ifstream inStream;
+inStream.open("text.txt");
+inStream >> variable;
+inStream.close();
+
+
+--
+#include <iostream>
+#include <fstream>
+#include <string>
+
+using namespace std;
+
+int main() {
+	string names;
+	ifstream inStream;
+	inStream.open("names.txt");
+	while(inStream >> names) {
+		cout << names << endl;
+	}
+	inStream.close();
+}
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
