@@ -1,4 +1,0 @@
-﻿  Source.cpp
-C:\Users\KKPS\Desktop\Lab 4\Source.cpp(26,35): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
-C:\Users\KKPS\Desktop\Lab 4\Source.cpp(45,35): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
-  Lab 4.vcxproj -> C:\Users\KKPS\Desktop\Lab 4\Debug\Lab 4.exe
