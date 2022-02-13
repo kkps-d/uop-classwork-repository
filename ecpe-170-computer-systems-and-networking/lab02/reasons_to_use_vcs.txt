@@ -1,0 +1,5 @@
+- Keeping an updated copy of your code as backup
+- Maintaining, comparing and tracking mulitple versions of your code
+- Collaborating with others
+- Experiment with new features without breaking working code
+- Review and suggest changes to other people's code
