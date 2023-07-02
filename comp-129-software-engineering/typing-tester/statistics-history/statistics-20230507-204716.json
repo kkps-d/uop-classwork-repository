@@ -1,0 +1,22 @@
+{
+    "save_timestamp": 1683517636.667511,
+    "correct_keypresses": 10,
+    "incorrect_keypresses": 1,
+    "accuracy_percentage": 0,
+    "word_count": 0,
+    "start_time_timestamp": 1683517634.665795,
+    "latest_time_timestamp": 1683517636.666511,
+    "typed_letters": [
+        "True,t,1683517634.665795",
+        "True,e,1683517634.731027",
+        "True,s,1683517634.78214",
+        "True,t,1683517634.880373",
+        "True,,,1683517634.946948",
+        "True, ,1683517635.029549",
+        "True,a,1683517635.129439",
+        "True,n,1683517635.228653",
+        "True,d,1683517635.313391",
+        "True, ,1683517635.38027",
+        "False,s,1683517636.666511"
+    ]
+}

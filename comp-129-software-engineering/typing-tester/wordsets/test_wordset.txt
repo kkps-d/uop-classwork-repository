@@ -1,0 +1,8 @@
+name=Test wordset
+description=Wordset used to test the app
+pytest is the framework that makes it easy to write, test, and scale to support complex testing for the applications and libraries. 
+It is the most popular Python package for testing. 
+The basis for a rich ecosystem of testing is plugins and extensions. 
+The way pytest is designed is as a very extensible system, easy to write plugins and there are a lot of plugins present in the pytest that are used for various purposes. 
+Testing is very important before delivering the code in production. 
+It is a mature full-featured Python tool that helps to write better programs.

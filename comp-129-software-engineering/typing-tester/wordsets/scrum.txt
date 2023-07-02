@@ -1,0 +1,24 @@
+name=Pair programming
+description=Info about scrum
+Pair programming is when two team members work together to accomplish a single task.
+Among pair programming's many benefits are collective code ownership and an increase
+in knowledge sharing among team members. During a pair programming session, each
+pair continually discusses any problem and its solution, essentially creating a real-time
+code review. As people move from task to task, ideally switching pairs and types of work,
+all of the team members become familiar with the vast majority of the codebase while also
+broadening their own skillsets.
+That's why one of Olivia's proposed solutions for the PNI team was to start using pair
+programming. The team members were disconnected from one another not only during
+estimation but also during the actual sprints. All of the tasks were pre-selected by
+individuals whose skills best matched a particular task. The problem is, when teams work
+this way, individuals move through the sprint in a vacuum, working and thinking about
+only their individual tasks and not making connections to the totality of work for the sprint
+—and worse yet, the project as a whole. A common side effect of this way of working is
+that the team loses track of its progress—tasks are blocked, people go on vacation or get
+sick, or quality issues go unnoticed until the end of the sprint. Soon, the team is left with
+many open tasks and a lack of visibility into what is keeping those tasks from being
+complete.
+Pair programming helps solve these issues by creating collective ownership for the
+team. The result is that every team member has visibility into, and an active role in
+completing, all of the work of the sprint. (Chapter 9, "Why Engineering Practices Are
+Important in Scrum," offers an in-depth look at pair programing and its benefits.)

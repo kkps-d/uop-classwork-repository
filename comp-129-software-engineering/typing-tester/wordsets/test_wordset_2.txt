@@ -1,0 +1,4 @@
+name=Test wordset 2
+description=Wordset used to test the app 2
+The quick brown fox jumps over the lazy dog. 
+Lorem ipsum dolor sit amet 

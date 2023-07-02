@@ -1,0 +1,16 @@
+{
+    "save_timestamp": 1683517710.322632,
+    "correct_keypresses": 4,
+    "incorrect_keypresses": 1,
+    "accuracy_percentage": 0,
+    "word_count": 0,
+    "start_time_timestamp": 1683517709.584527,
+    "latest_time_timestamp": 1683517710.321632,
+    "typed_letters": [
+        "True,t,1683517709.584527",
+        "True,e,1683517709.616296",
+        "True,s,1683517709.698556",
+        "True,t,1683517709.781285",
+        "False,,,1683517710.321632"
+    ]
+}

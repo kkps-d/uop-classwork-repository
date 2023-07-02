@@ -1,0 +1,3 @@
+name=medical jargon
+description=practice typing medical jargon!
+According to the patient's recent CT scan, there appears to be bilateral pulmonary nodules with irregular margins and a ground-glass appearance, suggestive of an underlying interstitial lung disease. The differential diagnosis includes sarcoidosis, hypersensitivity pneumonitis, and organizing pneumonia. Further evaluation with bronchoscopy and biopsy may be warranted to establish a definitive diagnosis and guide management.
