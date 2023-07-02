@@ -1,7 +1,7 @@
 # Team Entei
 <p align="center"> <strong>Andrew Kim</strong> |  <strong>Alan Khant</strong>  |  <strong>Kaung Khant Pyae Sone</strong>  |  <strong>Logan Pope</strong> </p>
 
-## [Tech Debt](https://github.com/comp129/customer-project-entei2023/blob/main/TechDebt.md)
+## [Tech Debt](https://github.com/kkps-d/uop-classwork-repository/blob/main/comp-129-software-engineering/typing-tester/TechDebt.md)
 
 # Overview
 This is a typing practice game made in Python with pygame. The player can choose between three game modes: speed where the player types for a set amount of time, accuracy where the player types until they make a mistake, and 'Fun Run' where the player runs from a skeleton by typing correctly.
@@ -22,9 +22,10 @@ This is a typing practice game made in Python with pygame. The player can choose
     - Displays the overall progress of the player's accuracy and speed.
 
 # Downloading the game
-You can [download the game here](https://github.com/comp129/customer-project-entei2023/releases/tag/stable) or in the **Releases** section.
+~~You can download the game here or in the **Releases** section.~~   
+Releases are not available
 
 # For More Info
-## [Customer Notes](https://github.com/comp129/customer-project-entei2023/blob/main/customerNotes.md)
+## [Customer Notes](https://github.com/kkps-d/uop-classwork-repository/blob/main/comp-129-software-engineering/typing-tester/customerNotes.md)
 
-## [Traditional Report](https://github.com/comp129/customer-project-entei2023/blob/main/traditionalReport.md)
+## [Traditional Report](https://github.com/kkps-d/uop-classwork-repository/blob/main/comp-129-software-engineering/typing-tester/traditionalReport.md)
