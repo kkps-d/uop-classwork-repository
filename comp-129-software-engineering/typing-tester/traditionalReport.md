@@ -56,7 +56,7 @@ Python 3.10.10
 - Another challenge was learning what we needed to know. We used a lot of new libraries and techniques in order to make sure our code was great but it took us a while to be confident with everything. The solution for this was simple, just getting more experience with everything and a lot of communication to teammates. Some of us knew certain parts of libraries while others knew seperate parts so communicating that was helpful.
 
 ## Testing
-[Link to Testing.md](https://github.com/comp129/customer-project-entei2023/blob/main/Testing.md)
+[Link to Testing.md](https://github.com/kkps-d/uop-classwork-repository/blob/main/comp-129-software-engineering/typing-tester/Testing.md)
 
 ## Project Highlights
 - We are very proud of the wordsets as well as the statistics. Of course we are proud of everything we put into the software but the two that stuck out the most are the wordset (specifically the letters turning red or green as you type them) and the statistics (specifically the calculations and graphs as these were much more complex then the rest).
